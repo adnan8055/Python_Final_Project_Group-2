@@ -3,6 +3,7 @@
 # Khaja Sayeeduddin 0851732
 # Abdul Adnan 0850365
 
+
 # Titanic
 # About Us
 # Data
@@ -10,7 +11,7 @@
 
 These are the awesome details about titanic dataset page.
 
-I am Adnan and my team member khaja.
+I am Adnan and my team member khaja collectively created the database.
 
 # The below details are about the columns in our dataset.
 
