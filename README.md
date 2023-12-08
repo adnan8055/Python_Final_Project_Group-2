@@ -1,7 +1,7 @@
 # Python_Final_Project_Group-2
  
-Khaja Sayeeduddin 0851732
-Abdul Adnan 0850365
+# Khaja Sayeeduddin 0851732
+# Abdul Adnan 0850365
 
 # Titanic
 # About Us
@@ -22,7 +22,7 @@ Pclass tells us about the class number.
 
 Names column are filled up with names of passengers.
 
-Sex section describe the gender of the passengers.
+Sex section describes the gender of the passengers.
 
 Age column shows the age of all the passengers.
 
